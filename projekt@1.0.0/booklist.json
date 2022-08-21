@@ -1,0 +1,65 @@
+[
+    {
+        "author": "Jostein Gaarder",
+        "title": "Sophie's World",
+        "year": 2005,
+        "isbn": "978-1-234-56789-7"
+    },
+    {
+        "author": "Jostein Gaarder",
+        "title": "Orangenmädchen",
+        "year": 2003,
+        "isbn": "978-1-407-23089-4"
+    },
+    {
+        "author": "Miguel de Cervantes",
+        "title": "Don Quijote von der Mancha",
+        "year": 2006,
+        "isbn": "401-0-324-02497-8"
+    },
+    {
+        "author": "Friedrich Nietzsche",
+        "title": "Also sprach Zarathustra",
+        "year": 1998,
+        "isbn": "978-3-822-41170-4"
+    },
+    {
+        "author": "John Strelecky",
+        "title": "Das Café am Rande der Welt",
+        "year": 2007,
+        "isbn": "978-3-423-34964-2"
+    },
+    {
+        "author": "John Strelecky",
+        "title": "The Big Five for Life",
+        "year": 2009,
+        "isbn": "978-3-423-34528-6"
+    },
+
+    {
+        "author": "J. R. R. Tolkien",
+        "title": "Der Herr der Ringe Trilogie",
+        "year": 2012,
+        "isbn": "978-3-608-93984-2"
+    },
+
+    {
+        "author": "Paulo Coelho",
+        "title": "Der Alchimist",
+        "year": 2008,
+        "isbn": "978-3-257-23727-6"
+    },
+    {
+        "author": "Anne Frank",
+        "title": "Tagebuch",
+        "year": 2001,
+        "isbn": "978-3-637-80803-4"
+    },
+
+    {
+        "author": "Rebecca Gablé",
+        "title": "Das Lächeln der Fortuna",
+        "year": 2001,
+        "isbn": "978-3-431-03610-7"
+    }
+]
